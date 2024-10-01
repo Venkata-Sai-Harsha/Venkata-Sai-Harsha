@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Sai Harsha</h1>
+<h1 align="center">Hi 👋, I'm Sai Harsha</h1>
 
 <!--
 **Venkata-Sai-Harsha/Venkata-Sai-Harsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
