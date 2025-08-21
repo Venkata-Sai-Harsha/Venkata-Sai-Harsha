@@ -25,8 +25,8 @@ I'm Polepalle Venkata Sai Harsha, a passionate Computer Science and Engineering 
 
 ## 💻 Tech Stack  
 - **Languages:** C++, JAVA, HTML, CSS, JavaScript, Python  
-- **Databases:** PostgreSQL  
-- **Skills:** Machine Learning
+- **Databases:** PostgreSQL, MySQL, SQL  
+- **Skills:** Machine Learning, Large Language Models, Data Science
 
 ## 🌱 Currently Learning  
 - Exploring the fascinating fields of **Deep Learning**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. Lifelong learning is my philosophy, and I love taking on new challenges.
